@@ -1,0 +1,9 @@
+Select * from employees where department_id = '90';
+
+Select * from employees where salary > 5000;
+
+Select * from employees Where last_name LIKE 'L%';
+
+Select * from departments Where location_id = 1700;
+
+Select * from locations Where country_id = 'US';
